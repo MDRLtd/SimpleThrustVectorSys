@@ -1,0 +1,624 @@
+Tijdstip: ! 160 ms;
+Temperatuur: @ 18.90 *C;
+Druk: # 99857.00 Pa;
+Oude hoogte: $ 11.18 m;
+Hoogte: % 122.94 m;
+Versnellingsmeter: & 1930	11627	-626	
+Gyroscoop: * -223	1	-14	
+Magnetometer: ? -427	-227	-701	
+Tijdstip: ! 257 ms;
+Temperatuur: @ 18.97 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 21.31 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1916	11641	-598	
+Gyroscoop: * -219	1	-15	
+Magnetometer: ? -428	-226	-710	
+Tijdstip: ! 407 ms;
+Temperatuur: @ 19.00 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 30.52 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1932	11635	-611	
+Gyroscoop: * -221	3	-17	
+Magnetometer: ? -423	-219	-709	
+Tijdstip: ! 559 ms;
+Temperatuur: @ 18.98 *C;
+Druk: # 99863.00 Pa;
+Oude hoogte: $ 38.88 m;
+Hoogte: % 122.44 m;
+Versnellingsmeter: & 1931	11619	-618	
+Gyroscoop: * -220	2	-17	
+Magnetometer: ? -434	-224	-702	
+Tijdstip: ! 710 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99858.00 Pa;
+Oude hoogte: $ 46.51 m;
+Hoogte: % 122.86 m;
+Versnellingsmeter: & 1913	11623	-612	
+Gyroscoop: * -216	-7	-17	
+Magnetometer: ? -427	-231	-703	
+Tijdstip: ! 862 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99864.00 Pa;
+Oude hoogte: $ 53.41 m;
+Hoogte: % 122.35 m;
+Versnellingsmeter: & 1884	11675	-616	
+Gyroscoop: * -215	-7	-15	
+Magnetometer: ? -427	-229	-709	
+Tijdstip: ! 1012 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 59.71 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1918	11632	-620	
+Gyroscoop: * -214	7	-15	
+Magnetometer: ? -423	-221	-701	
+Tijdstip: ! 1165 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 65.42 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1907	11635	-618	
+Gyroscoop: * -220	9	-15	
+Magnetometer: ? -432	-226	-698	
+Tijdstip: ! 1316 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99866.00 Pa;
+Oude hoogte: $ 70.58 m;
+Hoogte: % 122.18 m;
+Versnellingsmeter: & 1934	11615	-621	
+Gyroscoop: * -219	4	-12	
+Magnetometer: ? -419	-225	-707	
+Tijdstip: ! 1469 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 75.31 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1949	11608	-617	
+Gyroscoop: * -216	73	-17	
+Magnetometer: ? -425	-225	-699	
+Tijdstip: ! 1623 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 79.62 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1875	11685	-655	
+Gyroscoop: * -281	113	-16	
+Magnetometer: ? -432	-228	-708	
+Tijdstip: ! 1775 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 83.53 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1884	11642	-599	
+Gyroscoop: * -239	9	-15	
+Magnetometer: ? -433	-225	-703	
+Tijdstip: ! 1928 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 87.09 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1916	11619	-607	
+Gyroscoop: * -241	14	-17	
+Magnetometer: ? -422	-232	-700	
+Tijdstip: ! 2080 ms;
+Temperatuur: @ 18.96 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 90.32 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1884	11669	-592	
+Gyroscoop: * -228	33	-15	
+Magnetometer: ? -420	-224	-704	
+Tijdstip: ! 2234 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99862.00 Pa;
+Oude hoogte: $ 93.25 m;
+Hoogte: % 122.52 m;
+Versnellingsmeter: & 1958	11588	-623	
+Gyroscoop: * -213	-6	-14	
+Magnetometer: ? -429	-233	-703	
+Tijdstip: ! 2387 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99859.00 Pa;
+Oude hoogte: $ 95.94 m;
+Hoogte: % 122.77 m;
+Versnellingsmeter: & 1933	11619	-629	
+Gyroscoop: * -217	-12	-16	
+Magnetometer: ? -428	-236	-702	
+Tijdstip: ! 2540 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 98.36 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1913	11633	-609	
+Gyroscoop: * -217	-6	-14	
+Magnetometer: ? -419	-219	-711	
+Tijdstip: ! 2694 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99863.00 Pa;
+Oude hoogte: $ 100.55 m;
+Hoogte: % 122.44 m;
+Versnellingsmeter: & 1920	11634	-597	
+Gyroscoop: * -213	-2	-13	
+Magnetometer: ? -423	-217	-703	
+Tijdstip: ! 2847 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99864.00 Pa;
+Oude hoogte: $ 102.53 m;
+Hoogte: % 122.35 m;
+Versnellingsmeter: & 1928	11625	-607	
+Gyroscoop: * -217	-1	-15	
+Magnetometer: ? -425	-229	-705	
+Tijdstip: ! 3001 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99864.00 Pa;
+Oude hoogte: $ 104.33 m;
+Hoogte: % 122.35 m;
+Versnellingsmeter: & 1919	11627	-594	
+Gyroscoop: * -219	-2	-15	
+Magnetometer: ? -428	-228	-704	
+Tijdstip: ! 3156 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99862.00 Pa;
+Oude hoogte: $ 105.99 m;
+Hoogte: % 122.52 m;
+Versnellingsmeter: & 1933	11608	-594	
+Gyroscoop: * -220	-15	-15	
+Magnetometer: ? -421	-219	-705	
+Tijdstip: ! 3309 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 107.50 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1933	11620	-592	
+Gyroscoop: * -227	4	-13	
+Magnetometer: ? -423	-223	-703	
+Tijdstip: ! 3462 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 108.88 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1931	11621	-605	
+Gyroscoop: * -226	2	-17	
+Magnetometer: ? -433	-231	-703	
+Tijdstip: ! 3614 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 110.13 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1916	11630	-595	
+Gyroscoop: * -224	3	-15	
+Magnetometer: ? -421	-227	-707	
+Tijdstip: ! 3768 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 111.27 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1938	11609	-607	
+Gyroscoop: * -218	1	-16	
+Magnetometer: ? -432	-226	-700	
+Tijdstip: ! 3921 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99864.00 Pa;
+Oude hoogte: $ 112.28 m;
+Hoogte: % 122.35 m;
+Versnellingsmeter: & 1949	11599	-609	
+Gyroscoop: * -217	-6	-16	
+Magnetometer: ? -427	-225	-699	
+Tijdstip: ! 4075 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99859.00 Pa;
+Oude hoogte: $ 113.23 m;
+Hoogte: % 122.77 m;
+Versnellingsmeter: & 1936	11610	-614	
+Gyroscoop: * -218	-3	-16	
+Magnetometer: ? -434	-224	-700	
+Tijdstip: ! 4230 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 114.09 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1926	11618	-602	
+Gyroscoop: * -218	-4	-15	
+Magnetometer: ? -423	-223	-701	
+Tijdstip: ! 4382 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99860.00 Pa;
+Oude hoogte: $ 114.87 m;
+Hoogte: % 122.69 m;
+Versnellingsmeter: & 1923	11624	-595	
+Gyroscoop: * -219	0	-17	
+Magnetometer: ? -422	-222	-704	
+Tijdstip: ! 4535 ms;
+Temperatuur: @ 18.95 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 115.58 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1926	11625	-605	
+Gyroscoop: * -221	2	-16	
+Magnetometer: ? -429	-225	-709	
+Tijdstip: ! 4688 ms;
+Temperatuur: @ 18.94 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 116.21 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1928	11628	-607	
+Gyroscoop: * -224	4	-16	
+Magnetometer: ? -425	-221	-707	
+Tijdstip: ! 4842 ms;
+Temperatuur: @ 18.94 *C;
+Druk: # 99863.00 Pa;
+Oude hoogte: $ 116.78 m;
+Hoogte: % 122.44 m;
+Versnellingsmeter: & 2031	11533	-841	
+Gyroscoop: * -270	-4	-14	
+Magnetometer: ? -433	-217	-705	
+Tijdstip: ! 4995 ms;
+Temperatuur: @ 18.94 *C;
+Druk: # 99863.00 Pa;
+Oude hoogte: $ 117.29 m;
+Hoogte: % 122.44 m;
+Versnellingsmeter: & 2001	11556	-691	
+Gyroscoop: * -57	10	-15	
+Magnetometer: ? -436	-218	-698	
+Tijdstip: ! 5149 ms;
+Temperatuur: @ 18.94 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 117.78 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1735	11779	-615	
+Gyroscoop: * -123	-38	-16	
+Magnetometer: ? -434	-212	-708	
+Tijdstip: ! 5304 ms;
+Temperatuur: @ 18.93 *C;
+Druk: # 99864.00 Pa;
+Oude hoogte: $ 118.19 m;
+Hoogte: % 122.35 m;
+Versnellingsmeter: & 1944	11495	-412	
+Gyroscoop: * -316	67	-15	
+Magnetometer: ? -449	-203	-713	
+Tijdstip: ! 5459 ms;
+Temperatuur: @ 18.94 *C;
+Druk: # 99865.00 Pa;
+Oude hoogte: $ 118.56 m;
+Hoogte: % 122.27 m;
+Versnellingsmeter: & 2224	11444	-1543	
+Gyroscoop: * -64	-677	-17	
+Magnetometer: ? -490	-162	-658	
+Tijdstip: ! 5616 ms;
+Temperatuur: @ 18.93 *C;
+Druk: # 99862.00 Pa;
+Oude hoogte: $ 118.92 m;
+Hoogte: % 122.52 m;
+Versnellingsmeter: & 2413	11307	-809	
+Gyroscoop: * -980	-2033	-13	
+Magnetometer: ? -338	-296	-702	
+Tijdstip: ! 5772 ms;
+Temperatuur: @ 18.92 *C;
+Druk: # 99863.00 Pa;
+Oude hoogte: $ 119.24 m;
+Hoogte: % 122.44 m;
+Versnellingsmeter: & 2657	6368	-3127	
+Gyroscoop: * -2725	1153	-11	
+Magnetometer: ? -379	81	-807	
+Tijdstip: ! 5927 ms;
+Temperatuur: @ 18.92 *C;
+Druk: # 99862.00 Pa;
+Oude hoogte: $ 119.54 m;
+Hoogte: % 122.52 m;
+Versnellingsmeter: & 2562	5043	-2826	
+Gyroscoop: * -3254	-3358	-13	
+Magnetometer: ? 308	464	-906	
+Tijdstip: ! 6085 ms;
+Temperatuur: @ 18.90 *C;
+Druk: # 99862.00 Pa;
+Oude hoogte: $ 119.81 m;
+Hoogte: % 122.52 m;
+Versnellingsmeter: & 2039	5176	-2680	
+Gyroscoop: * -1375	-2018	-17	
+Magnetometer: ? -454	36	-1348	
+Tijdstip: ! 6242 ms;
+Temperatuur: @ 18.90 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 120.07 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 1136	4684	-4057	
+Gyroscoop: * -1602	-272	-15	
+Magnetometer: ? -660	-48	-1366	
+Tijdstip: ! 6392 ms;
+Temperatuur: @ 19.02 *C;
+Druk: # 99861.00 Pa;
+Oude hoogte: $ 120.30 m;
+Hoogte: % 122.61 m;
+Versnellingsmeter: & 631	4960	-4899	
+Gyroscoop: * -54	24	-16	
+Magnetometer: ? -796	-8	-1366	
+Tijdstip: ! 6546 ms;
+Temperatuur: @ 19.64 *C;
+Druk: # 99850.00 Pa;
+Oude hoogte: $ 120.59 m;
+Hoogte: % 123.53 m;
+Versnellingsmeter: & 810	4657	-4935	
+Gyroscoop: * -566	-513	-16	
+Magnetometer: ? -801	-3	-1343	
+Tijdstip: ! 6700 ms;
+Temperatuur: @ 20.42 *C;
+Druk: # 99853.00 Pa;
+Oude hoogte: $ 120.84 m;
+Hoogte: % 123.28 m;
+Versnellingsmeter: & 740	4958	-4960	
+Gyroscoop: * -145	153	-14	
+Magnetometer: ? -890	-4	-1348	
+Tijdstip: ! 6849 ms;
+Temperatuur: @ 21.09 *C;
+Druk: # 99853.00 Pa;
+Oude hoogte: $ 121.06 m;
+Hoogte: % 123.28 m;
+Versnellingsmeter: & 838	4698	-5001	
+Gyroscoop: * -484	5	-13	
+Magnetometer: ? -895	7	-1345	
+Tijdstip: ! 7000 ms;
+Temperatuur: @ 21.61 *C;
+Druk: # 99858.00 Pa;
+Oude hoogte: $ 121.22 m;
+Hoogte: % 122.86 m;
+Versnellingsmeter: & 817	4774	-4932	
+Gyroscoop: * -281	85	-16	
+Magnetometer: ? -890	8	-1346	
+Tijdstip: ! 7155 ms;
+Temperatuur: @ 22.02 *C;
+Druk: # 99865.00 Pa;
+Oude hoogte: $ 121.32 m;
+Hoogte: % 122.27 m;
+Versnellingsmeter: & 803	4774	-4988	
+Gyroscoop: * -255	-153	-18	
+Magnetometer: ? -896	-10	-1340	
+Tijdstip: ! 7311 ms;
+Temperatuur: @ 22.34 *C;
+Druk: # 99867.00 Pa;
+Oude hoogte: $ 121.39 m;
+Hoogte: % 122.10 m;
+Versnellingsmeter: & -91	6956	-5359	
+Gyroscoop: * 2566	-864	-17	
+Magnetometer: ? -517	-329	-1285	
+Tijdstip: ! 7465 ms;
+Temperatuur: @ 22.54 *C;
+Druk: # 99866.00 Pa;
+Oude hoogte: $ 121.46 m;
+Hoogte: % 122.18 m;
+Versnellingsmeter: & 1106	6010	-8466	
+Gyroscoop: * -1967	5179	-16	
+Magnetometer: ? -373	13	-725	
+Tijdstip: ! 7622 ms;
+Temperatuur: @ 22.55 *C;
+Druk: # 99876.00 Pa;
+Oude hoogte: $ 121.45 m;
+Hoogte: % 121.34 m;
+Versnellingsmeter: & 3403	9279	-1971	
+Gyroscoop: * -1301	675	-15	
+Magnetometer: ? -359	-199	-827	
+Tijdstip: ! 7775 ms;
+Temperatuur: @ 22.43 *C;
+Druk: # 99875.00 Pa;
+Oude hoogte: $ 121.45 m;
+Hoogte: % 121.43 m;
+Versnellingsmeter: & 1607	11897	-832	
+Gyroscoop: * 365	59	-15	
+Magnetometer: ? -347	-223	-815	
+Tijdstip: ! 7928 ms;
+Temperatuur: @ 22.25 *C;
+Druk: # 99872.00 Pa;
+Oude hoogte: $ 121.47 m;
+Hoogte: % 121.68 m;
+Versnellingsmeter: & 1843	11809	-592	
+Gyroscoop: * -190	12	-16	
+Magnetometer: ? -345	-249	-815	
+Tijdstip: ! 8084 ms;
+Temperatuur: @ 22.10 *C;
+Druk: # 99871.00 Pa;
+Oude hoogte: $ 121.50 m;
+Hoogte: % 121.76 m;
+Versnellingsmeter: & 1815	11818	-479	
+Gyroscoop: * -379	-53	-13	
+Magnetometer: ? -353	-243	-815	
+Tijdstip: ! 8241 ms;
+Temperatuur: @ 21.99 *C;
+Druk: # 99875.00 Pa;
+Oude hoogte: $ 121.49 m;
+Hoogte: % 121.43 m;
+Versnellingsmeter: & 783	12125	1904	
+Gyroscoop: * -1743	-1571	-13	
+Magnetometer: ? -376	-194	-814	
+Tijdstip: ! 8393 ms;
+Temperatuur: @ 21.90 *C;
+Druk: # 99871.00 Pa;
+Oude hoogte: $ 121.51 m;
+Hoogte: % 121.76 m;
+Versnellingsmeter: & 2246	11080	-731	
+Gyroscoop: * 354	164	-15	
+Magnetometer: ? -543	-47	-697	
+Tijdstip: ! 8545 ms;
+Temperatuur: @ 21.84 *C;
+Druk: # 99874.00 Pa;
+Oude hoogte: $ 121.51 m;
+Hoogte: % 121.51 m;
+Versnellingsmeter: & 2125	11081	-506	
+Gyroscoop: * -214	3	-17	
+Magnetometer: ? -547	-41	-703	
+Tijdstip: ! 8697 ms;
+Temperatuur: @ 21.80 *C;
+Druk: # 99870.00 Pa;
+Oude hoogte: $ 121.54 m;
+Hoogte: % 121.85 m;
+Versnellingsmeter: & 2127	10898	-308	
+Gyroscoop: * -6	203	-15	
+Magnetometer: ? -542	-38	-698	
+Tijdstip: ! 8851 ms;
+Temperatuur: @ 21.77 *C;
+Druk: # 99869.00 Pa;
+Oude hoogte: $ 121.58 m;
+Hoogte: % 121.93 m;
+Versnellingsmeter: & 2321	10745	-516	
+Gyroscoop: * -392	-31	-15	
+Magnetometer: ? -552	-20	-700	
+Tijdstip: ! 9003 ms;
+Temperatuur: @ 21.74 *C;
+Druk: # 99872.00 Pa;
+Oude hoogte: $ 121.59 m;
+Hoogte: % 121.68 m;
+Versnellingsmeter: & 2277	10616	-503	
+Gyroscoop: * -224	3	-15	
+Magnetometer: ? -556	-16	-696	
+Tijdstip: ! 9155 ms;
+Temperatuur: @ 21.73 *C;
+Druk: # 99871.00 Pa;
+Oude hoogte: $ 121.60 m;
+Hoogte: % 121.76 m;
+Versnellingsmeter: & 2273	10619	-501	
+Gyroscoop: * -222	2	-14	
+Magnetometer: ? -553	-13	-687	
+Tijdstip: ! 9307 ms;
+Temperatuur: @ 21.71 *C;
+Druk: # 99870.00 Pa;
+Oude hoogte: $ 121.63 m;
+Hoogte: % 121.85 m;
+Versnellingsmeter: & 2294	10614	-586	
+Gyroscoop: * -255	26	-14	
+Magnetometer: ? -561	-5	-691	
+Tijdstip: ! 9458 ms;
+Temperatuur: @ 21.70 *C;
+Druk: # 99870.00 Pa;
+Oude hoogte: $ 121.65 m;
+Hoogte: % 121.85 m;
+Versnellingsmeter: & 2299	10534	-488	
+Gyroscoop: * -226	-5	-17	
+Magnetometer: ? -561	-3	-697	
+Tijdstip: ! 9608 ms;
+Temperatuur: @ 21.70 *C;
+Druk: # 99875.00 Pa;
+Oude hoogte: $ 121.63 m;
+Hoogte: % 121.43 m;
+Versnellingsmeter: & 2305	10522	-506	
+Gyroscoop: * -222	2	-16	
+Magnetometer: ? -555	3	-701	
+Tijdstip: ! 9759 ms;
+Temperatuur: @ 21.68 *C;
+Druk: # 99877.00 Pa;
+Oude hoogte: $ 121.59 m;
+Hoogte: % 121.26 m;
+Versnellingsmeter: & 2306	10519	-506	
+Gyroscoop: * -226	-1	-15	
+Magnetometer: ? -562	2	-696	
+Tijdstip: ! 9909 ms;
+Temperatuur: @ 21.67 *C;
+Druk: # 99872.00 Pa;
+Oude hoogte: $ 121.60 m;
+Hoogte: % 121.68 m;
+Versnellingsmeter: & 2304	10523	-500	
+Gyroscoop: * -222	1	-16	
+Magnetometer: ? -553	5	-699	
+Tijdstip: ! 10060 ms;
+Temperatuur: @ 21.65 *C;
+Druk: # 99869.00 Pa;
+Oude hoogte: $ 121.63 m;
+Hoogte: % 121.93 m;
+Versnellingsmeter: & 2302	10536	-500	
+Gyroscoop: * -222	2	-17	
+Magnetometer: ? -554	-4	-702	
+Tijdstip: ! 10212 ms;
+Temperatuur: @ 21.64 *C;
+Druk: # 99872.00 Pa;
+Oude hoogte: $ 121.63 m;
+Hoogte: % 121.68 m;
+Versnellingsmeter: & 2304	10523	-494	
+Gyroscoop: * -222	2	-14	
+Magnetometer: ? -564	4	-704	
+Tijdstip: ! 10362 ms;
+Temperatuur: @ 21.63 *C;
+Druk: # 99869.00 Pa;
+Oude hoogte: $ 121.66 m;
+Hoogte: % 121.93 m;
+Versnellingsmeter: & 2305	10520	-493	
+Gyroscoop: * -223	1	-17	
+Magnetometer: ? -561	3	-699	
+Tijdstip: ! 10513 ms;
+Temperatuur: @ 21.62 *C;
+Druk: # 99870.00 Pa;
+Oude hoogte: $ 121.68 m;
+Hoogte: % 121.85 m;
+Versnellingsmeter: & 2311	10517	-495	
+Gyroscoop: * -222	2	-15	
+Magnetometer: ? -561	7	-699	
+Tijdstip: ! 10663 ms;
+Temperatuur: @ 21.62 *C;
+Druk: # 99868.00 Pa;
+Oude hoogte: $ 121.71 m;
+Hoogte: % 122.01 m;
+Versnellingsmeter: & 2308	10521	-503	
+Gyroscoop: * -222	1	-15	
+Magnetometer: ? -556	4	-696	
+Tijdstip: ! 10815 ms;
+Temperatuur: @ 21.61 *C;
+Druk: # 99869.00 Pa;
+Oude hoogte: $ 121.73 m;
+Hoogte: % 121.93 m;
+Versnellingsmeter: & 2309	10521	-498	
+Gyroscoop: * -222	1	-17	
+Magnetometer: ? -561	1	-701	
+Tijdstip: ! 10966 ms;
+Temperatuur: @ 21.60 *C;
+Druk: # 99869.00 Pa;
+Oude hoogte: $ 121.75 m;
+Hoogte: % 121.93 m;
+Versnellingsmeter: & 2307	10516	-505	
+Gyroscoop: * -223	0	-14	
+Magnetometer: ? -555	3	-703	
+Tijdstip: ! 11116 ms;
+Temperatuur: @ 21.58 *C;
+Druk: # 99868.00 Pa;
+Oude hoogte: $ 121.77 m;
+Hoogte: % 122.01 m;
+Versnellingsmeter: & 2310	10522	-506	
+Gyroscoop: * -222	2	-14	
+Magnetometer: ? -559	9	-699	
+Tijdstip: ! 11267 ms;
+Temperatuur: @ 21.58 *C;
+Druk: # 99869.00 Pa;
+Oude hoogte: $ 121.79 m;
+Hoogte: % 121.93 m;
+Versnellingsmeter: & 2307	10522	-506	
+Gyroscoop: * -221	1	-14	
+Magnetometer: ? -559	1	-699	
+Tijdstip: ! 11418 ms;
+Temperatuur: @ 21.56 *C;
+Druk: # 99869.00 Pa;
+Oude hoogte: $ 121.80 m;
+Hoogte: % 121.93 m;
+Versnellingsmeter: & 2308	10521	-494	
+Gyroscoop: * -223	3	-16	
+Magnetometer: ? -564	8	-706	
+Tijdstip: ! 11569 ms;
+Temperatuur: @ 21.55 *C;
+Druk: # 99870.00 Pa;
+Oude hoogte: $ 121.80 m;
+Hoogte: % 121.85 m;
+Versnellingsmeter: & 2308	10537	-503	
+Gyroscoop: * -221	2	-15	
+Magnetometer: ? -559	5	-701	
+Tijdstip: ! 11720 ms;
+Temperatuur: @ 21.53 *C;
+Druk: # 99870.00 Pa;
+Oude hoogte: $ 121.81 m;
+Hoogte: % 121.85 m;
+Versnellingsmeter: & 2301	10524	-510	
+Gyroscoop: * -222	0	-14	
+Magnetometer: ? -559	-7	-687	
+Tijdstip: ! 11871 ms;
+Temperatuur: @ 21.50 *C;
+Druk: # 99871.00 Pa;
+Oude hoogte: $ 121.80 m;
+Hoogte: % 121.76 m;
+Versnellingsmeter: & 2308	10524	-511	
+Gyroscoop: * -223	3	-16	
+Magnetometer: ? -555	3	-695	
